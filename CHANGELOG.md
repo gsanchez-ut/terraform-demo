@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/gsanchez-ut/terraform-demo/compare/v2.1.1...v2.1.2) (2025-07-21)
+
+
+### Performance Improvements
+
+* increase EC2 instance\n\nBREAKING CHANGE: Increasing EC2 to m7.xlarge ([409d689](https://github.com/gsanchez-ut/terraform-demo/commit/409d6893391da4bded46c9285e4c077a3c9b03f1))
+
 ## [2.1.1](https://github.com/gsanchez-ut/terraform-demo/compare/v2.1.0...v2.1.1) (2025-07-21)
 
 
