@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/gsanchez-ut/terraform-demo/compare/v2.1.2...v3.0.0) (2025-07-21)
+
+
+### Performance Improvements
+
+* increase EC2 instance ([b20d8b7](https://github.com/gsanchez-ut/terraform-demo/commit/b20d8b78165520c0e43fce38d48d0f9c6ae1cd01))
+
+
+### BREAKING CHANGES
+
+* Increasing EC2 instance to m7.2xlarge becaue perfomance issues
+
 ## [2.1.2](https://github.com/gsanchez-ut/terraform-demo/compare/v2.1.1...v2.1.2) (2025-07-21)
 
 
