@@ -8,7 +8,7 @@ resource "aws_s3_bucket" "example" {
 }
 
 resource "aws_ec2_instance" "example" {
-  ami           = "ami-12345678"
+  ami           = "ami-123456789"
   instance_type = "t2.micro"
 
   tags = {
