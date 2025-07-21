@@ -9,7 +9,7 @@ resource "aws_s3_bucket" "example" {
 
 resource "aws_ec2_instance" "example" {
   ami           = "ami-123456789"
-  instance_type = "t2.micro"
+  instance_type = "m7.xlarge"
 
   tags = {
     Name = "Terraform Example"
