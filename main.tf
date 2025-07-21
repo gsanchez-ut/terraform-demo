@@ -19,5 +19,5 @@ resource "aws_ec2_instance" "example" {
 resource "aws_s3_bucket_object" "example" {
   bucket = aws_s3_bucket.example.id
   key    = "example.txt"
-  content = "Hello, World!"
+  content = "Hello, World!!!!!"
 }
